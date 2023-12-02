@@ -1,3 +1,4 @@
+
 while True:
   print("\nOptions:")
   print("Enter '1' for addition")
